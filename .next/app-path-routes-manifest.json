@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/auth/login/page": "/auth/login",
+  "/auth/signup/page": "/auth/signup",
+  "/contact/page": "/contact",
+  "/about/page": "/about",
+  "/community/page": "/community",
+  "/hygiene/page": "/hygiene",
+  "/page": "/",
+  "/store/page": "/store",
+  "/subscriptions/page": "/subscriptions",
+  "/swipe/page": "/swipe",
+  "/marketplace/page": "/marketplace"
+}
